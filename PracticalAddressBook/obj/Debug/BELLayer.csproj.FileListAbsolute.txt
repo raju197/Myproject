@@ -1,0 +1,6 @@
+E:\C#code\PracticalAddressBook\PracticalAddressBook\bin\Debug\PracticalAddressBook.dll
+E:\C#code\PracticalAddressBook\PracticalAddressBook\bin\Debug\PracticalAddressBook.pdb
+E:\C#code\PracticalAddressBook\PracticalAddressBook\obj\Debug\BELLayer.csprojAssemblyReference.cache
+E:\C#code\PracticalAddressBook\PracticalAddressBook\obj\Debug\BELLayer.csproj.CoreCompileInputs.cache
+E:\C#code\PracticalAddressBook\PracticalAddressBook\obj\Debug\PracticalAddressBook.dll
+E:\C#code\PracticalAddressBook\PracticalAddressBook\obj\Debug\PracticalAddressBook.pdb

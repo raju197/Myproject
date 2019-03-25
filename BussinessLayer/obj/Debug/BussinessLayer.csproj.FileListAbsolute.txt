@@ -1,0 +1,12 @@
+E:\C#code\PracticalAddressBook\BussinessLayer\bin\Debug\BussinessLayer.dll
+E:\C#code\PracticalAddressBook\BussinessLayer\bin\Debug\BussinessLayer.pdb
+E:\C#code\PracticalAddressBook\BussinessLayer\bin\Debug\DataAccessLayer.dll
+E:\C#code\PracticalAddressBook\BussinessLayer\bin\Debug\PracticalAddressBook.dll
+E:\C#code\PracticalAddressBook\BussinessLayer\bin\Debug\DataAccessLayer.pdb
+E:\C#code\PracticalAddressBook\BussinessLayer\bin\Debug\DataAccessLayer.dll.config
+E:\C#code\PracticalAddressBook\BussinessLayer\bin\Debug\PracticalAddressBook.pdb
+E:\C#code\PracticalAddressBook\BussinessLayer\obj\Debug\BussinessLayer.csprojAssemblyReference.cache
+E:\C#code\PracticalAddressBook\BussinessLayer\obj\Debug\BussinessLayer.csproj.CoreCompileInputs.cache
+E:\C#code\PracticalAddressBook\BussinessLayer\obj\Debug\BussinessLayer.csproj.CopyComplete
+E:\C#code\PracticalAddressBook\BussinessLayer\obj\Debug\BussinessLayer.dll
+E:\C#code\PracticalAddressBook\BussinessLayer\obj\Debug\BussinessLayer.pdb
